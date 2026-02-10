@@ -1,0 +1,18 @@
+Rest
+- baseadas em endpoints(urls)
+- json
+- metodos http: get, post, put, delete(crud)
+- retorna todos os dados de um  endpoint
+
+GraphQL
+- unico endpoint
+- funções de query(busca) e mutation(inserções, atualizações e deletes)
+- permite selecionar os dados de retorno
+
+Tipos de teste
+- funcionais(valores limite, formato da mensagem)
+- segurança
+- performance
+- carga e stress
+- regressão
+- integração
