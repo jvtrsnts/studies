@@ -10,7 +10,7 @@
     - <visibilidade\> < > <nome\> (<tipo argumento\> <nome do argumento\>, ) {}
     - procura instruções a partir da função main()
 
-### Olá mundo
+### Olá, mundo
 
 - System.out.println()
   - System.out = saida padrão
@@ -30,3 +30,10 @@
 
 - // = comentários em linha única
 - /\*\*/ = comentários multi-linhas
+
+### Estrutura básica do programa
+
+- Toda linha de código deve estar dentro de uma classe, pode ser qualquer nome
+- **Método _main_**: JVM procura pelo método para _executar_ o código, sendo obrigatório
+- Cada intrução deve terminar com ';'
+- Classes e métodos não precisam de ';'
